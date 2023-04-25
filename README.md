@@ -9,6 +9,7 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <!-- CSS3 -->
   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="react" width="40" height="40"/> </a> <!-- JS -->
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" alt="bootstrap" width="40" height="40"/> </a> <!-- Bootstrap -->
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <!-- Tailwind -->
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="php" width="40" height="40"/> </a> <!-- PHP -->
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="C#" height="40"/> </a> <!-- C# -->
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-sharp-programming-language-icon.png" alt="php" width="40" height="40"/> </a> <!-- Python -->
@@ -26,7 +27,7 @@
 
 <p><code> currently learning </code></p>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <!-- ReactJS -->
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <!-- Tailwind -->
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="Laravel" width="40" height="40"/> </a> <!-- Laravel -->
  
 <br/><br/>
 <img height="140" src="https://64.media.tumblr.com/04e2f45e85fac3d3faa7fd9ab9ade6b1/be2aead9722d1e0e-e4/s540x810/f01e0c1e24e4a92f8800bde8aa52cb957a5bf1ec.gif"/> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izabelpletsch&layout=compact)
