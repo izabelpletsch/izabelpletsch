@@ -23,6 +23,10 @@
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <!-- MS SQL Server -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <!-- MySql -->
   <a href="https://www.apachefriends.org/pt_br/download.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/XAMPP_logo.svg/1200px-XAMPP_logo.svg.png" alt="Xampp" width="40" height="40"/> </a> <!-- Xampp -->
+  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/node-js-icon-1901x2048-mk1e13df.png" alt="nodejs" width="40" height="40"/> </a>
+  <a href="https://jestjs.io/pt-BR/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/10525473/50372432-95dcd880-0611-11e9-9432-58de9be26b3b.png" alt="Jest.js" width="40" height="40"/> </a>
+  <a href="https://angularjs.org/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/angular-logo.png" alt="Angular JS" width="40" height="40"/> </a>
+  <a href="https://knexjs.org/" target="_blank" rel="noreferrer"> <img src="https://knexjs.org/knex-logo.png" alt="Knex JS" width="40" height="40"/> </a>
 </p>
 
 <p><code> currently learning </code></p>
