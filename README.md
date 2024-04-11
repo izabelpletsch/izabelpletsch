@@ -1,7 +1,7 @@
 <div align="center">
 <h3><b><i>prazer, Izabel!</b></i></h3>
 
-<p>system development and analysis student • i.t. teacher • <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Fedora_icon_%282021%29.svg/2089px-Fedora_icon_%282021%29.svg.png" width="15" height="15"/> fedora user</p>
+<p>system development and analysis student • dev junior • <img src="https://static-00.iconduck.com/assets.00/distributor-logo-debian-icon-2048x2048-y0s2g4it.png" width="15" height="15"/> debian user</p>
 
 <p><code> tools and languages </code></p>
 <p> 
@@ -12,6 +12,7 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a> <!-- Tailwind -->
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="php" width="40" height="40"/></a> <!-- PHP -->
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="C#" height="40"/></a> <!-- C# -->
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/373591/expo.svg" alt="Expo" height="40"/></a> <!-- Expo -->
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" target="_blank" rel="noreferrer"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-sharp-programming-language-icon.png" alt="php" width="40" height="40"/></a> <!-- Python -->
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/788px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/></a> <!-- PS -->
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/800px-Adobe_Illustrator_CC_icon.svg.png" alt="illustrator" width="40" height="40"/></a> <!-- Adobe Illustrator -->
@@ -27,6 +28,7 @@
   <a href="https://jestjs.io/pt-BR/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/10525473/50372432-95dcd880-0611-11e9-9432-58de9be26b3b.png" alt="Jest.js" width="40" height="40"/></a> <!-- JestJS -->
   <a href="https://angularjs.org/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/angular-logo.png" alt="Angular JS" width="40" height="40"/></a> <!-- AngularJS -->
   <a href="https://knexjs.org/" target="_blank" rel="noreferrer"><img src="https://knexjs.org/knex-logo.png" alt="Knex JS" width="40" height="40"/></a> <!-- KnexJS -->
+  <a href="https://knexjs.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/2752551/30405068-a7733b34-989e-11e7-8f66-7badaf1373ed.png" alt="Serverless" width="40" height="40"/></a> <!-- Serverless -->
 </p>
 
 <p><code> currently learning </code></p>
