@@ -1,7 +1,5 @@
 <div align="center">
-<h3><b><i>prazer, Izabel!</b></i></h3>
-
-<p>system development and analysis student • dev junior • <img src="https://static-00.iconduck.com/assets.00/distributor-logo-debian-icon-2048x2048-y0s2g4it.png" width="15" height="15"/> debian user</p>
+<p>system development and analysis student • junior full-stack developer • <img src="https://raw.githubusercontent.com/endeavouros-team/endeavouros-theming/master/endeavouros-icon.png" width="15" height="15"/> EndeavourOS user</p>
 
 <p><code> tools and languages </code></p>
 <p> 
@@ -29,11 +27,8 @@
   <a href="https://angularjs.org/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/angular-logo.png" alt="Angular JS" width="40" height="40"/></a> <!-- AngularJS -->
   <a href="https://knexjs.org/" target="_blank" rel="noreferrer"><img src="https://knexjs.org/knex-logo.png" alt="Knex JS" width="40" height="40"/></a> <!-- KnexJS -->
   <a href="https://knexjs.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/2752551/30405068-a7733b34-989e-11e7-8f66-7badaf1373ed.png" alt="Serverless" width="40" height="40"/></a> <!-- Serverless -->
-</p>
-
-<p><code> currently learning </code></p>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a> <!-- ReactJS -->
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="Laravel" width="40" height="40"/></a> <!-- Laravel -->
+</p>
  
 <br/><br/>
 <img height="140" src="https://64.media.tumblr.com/04e2f45e85fac3d3faa7fd9ab9ade6b1/be2aead9722d1e0e-e4/s540x810/f01e0c1e24e4a92f8800bde8aa52cb957a5bf1ec.gif"/>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izabelpletsch&layout=compact)
