@@ -1,5 +1,5 @@
 <div align="center">
-<p>system development and analysis student • junior full-stack developer • <img src="https://raw.githubusercontent.com/endeavouros-team/endeavouros-theming/master/endeavouros-icon.png" width="15" height="15"/> EndeavourOS user</p>
+<p>full-stack developer • <img src="https://raw.githubusercontent.com/endeavouros-team/endeavouros-theming/master/endeavouros-icon.png" width="15" height="15"/> EndeavourOS user</p>
 
 <p><code> tools and languages </code></p>
 <p> 
@@ -12,7 +12,7 @@
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="C#" height="40"/></a> <!-- C# -->
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/373591/expo.svg" alt="Expo" height="40"/></a> <!-- Expo -->
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" target="_blank" rel="noreferrer"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-sharp-programming-language-icon.png" alt="php" width="40" height="40"/></a> <!-- Python -->
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/788px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/></a> <!-- PS -->
+  <a,0 href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/788px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/></a> <!-- PS -->
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/800px-Adobe_Illustrator_CC_icon.svg.png" alt="illustrator" width="40" height="40"/></a> <!-- Adobe Illustrator -->
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>  <!-- Figma -->
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a> <!-- Bash -->
@@ -33,4 +33,5 @@
 <br/><br/>
 <img height="140" src="https://64.media.tumblr.com/04e2f45e85fac3d3faa7fd9ab9ade6b1/be2aead9722d1e0e-e4/s540x810/f01e0c1e24e4a92f8800bde8aa52cb957a5bf1ec.gif"/>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izabelpletsch&layout=compact)
 <p><i> to develop is to change the world! </i></p>
-</div>
+</div>0,
+,00,
