@@ -1,5 +1,10 @@
 <div align="center">
-<p>full-stack developer • <img src="https://raw.githubusercontent.com/endeavouros-team/endeavouros-theming/master/endeavouros-icon.png" width="15" height="15"/> EndeavourOS user</p>
+<p style="
+    display: flex;
+    flex-align: center;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;">full-stack developer • <img src="https://distrosea.com/distro-icons/pikaos.svg" width="30" height="30" style="align-self: center"/> PikaOS user</p>
 
 <p><code> tools and languages </code></p>
 <p> 
