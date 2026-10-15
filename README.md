@@ -1,10 +1,5 @@
 <div align="center">
-<p style="
-    display: flex;
-    flex-align: center;
-    justify-content: center;
-    align-items: center;
-    gap: 8px;">full-stack developer • <img src="https://distrosea.com/distro-icons/pikaos.svg" width="30" height="30" style="align-self: center"/> PikaOS user</p>
+<p class="personal-info">full-stack developer • <img src="https://distrosea.com/distro-icons/pikaos.svg" width="30" height="30" style="align-self: center"/> PikaOS user</p>
 
 <p><code> tools and languages </code></p>
 <p> 
