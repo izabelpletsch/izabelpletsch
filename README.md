@@ -33,5 +33,4 @@
 <br/><br/>
 <img height="140" src="https://64.media.tumblr.com/04e2f45e85fac3d3faa7fd9ab9ade6b1/be2aead9722d1e0e-e4/s540x810/f01e0c1e24e4a92f8800bde8aa52cb957a5bf1ec.gif"/>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izabelpletsch&layout=compact)
 <p><i> to develop is to change the world! </i></p>
-</div>0,
-,00,
+</div>
